@@ -44,6 +44,7 @@ def tim_sort(l):
 
 # A fun sorting algorithm
 # QUICK SORT
+# I needed help coding this myself :(
 def quick_sort(l):
     less = []
     equal = []
